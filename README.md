@@ -6,14 +6,6 @@
 
 The Day Care Management System is designed to streamline and enhance the management of daycare operations. It leverages robust Object-Oriented Design (OOD) principles to create a practical, efficient, and user-friendly system for managing the information of students, teachers, and classes in daycare institutions.
 
-## Team Members
-
-- Vivek Shankar Patil
-- Sanjay Bangalore Renukaprasad
-- Shreyas Hanamantgouda Patil
-- Karthik Sunil
-- Karan Srinivas
-
 ## Features
 
 - **User Roles:** Different roles including Admin, Student, and Teacher.
